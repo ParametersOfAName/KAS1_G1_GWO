@@ -12,7 +12,18 @@ Objectives:
 •	To determine what extent did the Japanese occupation affect the Philippine economy from start of the occupation to the modern-day Philippines.
 
 I. Before the Japanese Occupation
-
+a. Economic Status of the Philippines
+	1. National Output
+		1.a. GDP
+		1.b. GNP
+		1.c. NNI
+	2. Population
+		2.a. Population Count
+		2.b. Employment Rate
+		2.c. Life Expectancy
+		2.d. Average Annual Income
+	3. Capital Stock
+	4. Product Import/Export
 II. During the Japanese Occupation
 a. Infrastructure, Public Utility Capital, and Construction
 	Transportation
